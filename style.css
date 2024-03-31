@@ -29,7 +29,7 @@ body{
     margin: 0;
 }
 .navbar{
-    margin-top: 70px;
+    /* margin-top: 70px; */
     display: flex;
     align-items: center;
     width: 80%;
